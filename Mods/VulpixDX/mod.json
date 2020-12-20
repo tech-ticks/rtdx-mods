@@ -1,0 +1,10 @@
+﻿{
+  "Id": "techticks.VulpixDX",
+  "Version": "1.0.0",
+  "Target": "RTDX",
+  "Name": "Vulpix DX",
+  "Description": "Vulpix.",
+  "Scripts": [
+    "VulpixDX.csx"
+  ]
+}
